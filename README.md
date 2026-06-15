@@ -2,13 +2,27 @@
 
 A modern, high-performance e-commerce storefront for premium motorcycle helmets, designed with a luxury user experience and responsive architecture.
 
-## Live Demo
 
-[Live Website](YOUR_DEPLOYMENT_LINK)
+
+
 
 ## Screenshots
+## Preview
 
-(Add homepage, shop page, cart page screenshots here)
+### Home Page
+
+![Home Page](./public/screenshots/home-page.png)
+
+### Shop Page
+
+![Shop Page](./public/screenshots/shop-page.png)
+
+### Shopping Cart
+
+![Cart Page](./public/screenshots/cart-page.png)
+
+
+
 
 ---
 
@@ -147,8 +161,8 @@ Akash
 
 Frontend Developer
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/Akash-Magandhran
 
-LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+LinkedIn:https://www.linkedin.com/in/akash-magandhran/
 
 ---
