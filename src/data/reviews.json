@@ -1,0 +1,6 @@
+[
+  { "id": "r1", "name": "Marco D.", "role": "Track Rider", "rating": 5, "text": "The Phantom Track X is in a different league. Wind-tunnel quiet at 250km/h and the optics are pristine. Worth every cent." },
+  { "id": "r2", "name": "Aisha K.", "role": "Adventure Tourer", "rating": 5, "text": "Took my Nomad Dual Sport across two continents. Zero fogging, perfect fit, and the peak visor saved me a hundred times." },
+  { "id": "r3", "name": "Liam R.", "role": "Daily Commuter", "rating": 4, "text": "Apex Modular Pro changed my commute. Flip-up at lights, drop sun visor on the highway. Built like a tank." },
+  { "id": "r4", "name": "Sofia M.", "role": "MotoGP Coach", "rating": 5, "text": "I've tested every premium brand. AVBAR matches the big names at two-thirds the price. The fit is exceptional." }
+]

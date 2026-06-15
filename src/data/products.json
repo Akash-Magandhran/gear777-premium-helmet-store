@@ -1,0 +1,377 @@
+[
+  {
+    "id": "p1",
+    "slug": "vortex-carbon-rs",
+    "name": "Vortex Carbon RS",
+    "category": "Full Face",
+    "price": 549,
+    "oldPrice": 649,
+    "rating": 4.9,
+    "reviews": 218,
+    "tag": "Best Seller",
+    "image": "helmet-7.jpg",
+    "colors": [
+      "Matte Black",
+      "Phantom Red",
+      "Arctic White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 14,
+    "description": "Aerospace-grade carbon fiber shell engineered for track riders. Wind-tunnel tested for sub-1100g weight with maximum impact dispersion.",
+    "specs": {
+      "Shell": "Carbon Fiber Composite",
+      "Weight": "1080g",
+      "Visor": "Anti-Fog Pinlock 120",
+      "Certification": "ECE 22.06 / DOT",
+      "Ventilation": "5-port active flow"
+    }
+  },
+  {
+    "id": "p2",
+    "slug": "apex-modular-pro",
+    "name": "Apex Modular Pro",
+    "category": "Modular",
+    "price": 429,
+    "oldPrice": null,
+    "rating": 4.7,
+    "reviews": 142,
+    "tag": "New",
+    "image": "helmet-8.jpg",
+    "colors": [
+      "Gunmetal",
+      "Stealth Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 22,
+    "description": "Versatile flip-up modular helmet built for touring. Drop-down sun visor, Bluetooth-ready cavity, premium quilted liner.",
+    "specs": {
+      "Shell": "Polycarbonate Alloy",
+      "Weight": "1620g",
+      "Visor": "Dual + Drop-Down Sun",
+      "Certification": "ECE 22.06",
+      "Ventilation": "Adaptive 4-vent system"
+    }
+  },
+  {
+    "id": "p3",
+    "slug": "nomad-dual-sport",
+    "name": "Nomad Dual Sport",
+    "category": "Adventure",
+    "price": 379,
+    "oldPrice": 449,
+    "rating": 4.8,
+    "reviews": 96,
+    "tag": "Sale",
+    "image": "helmet-9.jpg",
+    "colors": [
+      "Desert Tan",
+      "Forest Green",
+      "Matte Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 9,
+    "description": "Adventure-class helmet with peak visor and goggle-ready aperture. Built for the road less traveled.",
+    "specs": {
+      "Shell": "Tri-composite Fiberglass",
+      "Weight": "1450g",
+      "Visor": "Peak + Anti-Glare Shield",
+      "Certification": "ECE 22.06 / DOT",
+      "Ventilation": "All-terrain 6-vent"
+    }
+  },
+  {
+    "id": "p4",
+    "slug": "phantom-track-x",
+    "name": "Phantom Track X",
+    "category": "Full Face",
+    "price": 689,
+    "oldPrice": null,
+    "rating": 5.0,
+    "reviews": 311,
+    "tag": "Pro",
+    "image": "helmet-10.jpg",
+    "colors": [
+      "Phantom Red",
+      "Carbon Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 6,
+    "description": "MotoGP-derived aerodynamics. Pro-spec internal channels, magnetic chin strap, emergency cheek pad release.",
+    "specs": {
+      "Shell": "T800 Carbon",
+      "Weight": "1050g",
+      "Visor": "Race Tear-Off Ready",
+      "Certification": "FIM Homologated",
+      "Ventilation": "Aero-tuned 7-port"
+    }
+  },
+  {
+    "id": "p5",
+    "slug": "urban-pulse-half",
+    "name": "Urban Pulse Half",
+    "category": "Half",
+    "price": 189,
+    "oldPrice": 229,
+    "rating": 4.5,
+    "reviews": 64,
+    "tag": "Sale",
+    "image": "helmet-5.jpg",
+    "colors": [
+      "Jet Black",
+      "Vintage Bronze"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 31,
+    "description": "Lightweight half-shell for city cruising. Slim profile, premium leather trim, snap-on visor.",
+    "specs": {
+      "Shell": "ABS Composite",
+      "Weight": "780g",
+      "Visor": "Snap-on Smoked",
+      "Certification": "DOT",
+      "Ventilation": "Open profile"
+    }
+  },
+  {
+    "id": "p6",
+    "slug": "stealth-open-face",
+    "name": "Stealth Open Face",
+    "category": "Open Face",
+    "price": 259,
+    "oldPrice": null,
+    "rating": 4.6,
+    "reviews": 87,
+    "tag": null,
+    "image": "helmet-6.jpg",
+    "colors": [
+      "Matte Black",
+      "Cream White"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 18,
+    "description": "Retro-modern open face with drop-down bubble shield and quilted suede liner.",
+    "specs": {
+      "Shell": "Fiberglass Composite",
+      "Weight": "1100g",
+      "Visor": "Bubble Shield",
+      "Certification": "ECE 22.06",
+      "Ventilation": "Top + chin intake"
+    }
+  },
+  {
+    "id": "p7",
+    "slug": "rally-mx-pro",
+    "name": "Rally MX Pro",
+    "category": "Adventure",
+    "price": 459,
+    "oldPrice": null,
+    "rating": 4.8,
+    "reviews": 119,
+    "tag": "New",
+    "image": "helmet-11.jpg",
+    "colors": [
+      "Race Red",
+      "Neon Yellow",
+      "Matte Black"
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "stock": 11,
+    "description": "Off-road MX helmet with extended peak, goggle channel, and roost-deflecting chin bar.",
+    "specs": {
+      "Shell": "Carbon + Kevlar Weave",
+      "Weight": "1180g",
+      "Visor": "MX Peak",
+      "Certification": "ECE 22.06",
+      "Ventilation": "12-port roost flow"
+    }
+  },
+  {
+    "id": "p8",
+    "slug": "midnight-tour-gt",
+    "name": "Midnight Tour GT",
+    "category": "Modular",
+    "price": 519,
+    "oldPrice": 589,
+    "rating": 4.7,
+    "reviews": 73,
+    "tag": "Sale",
+    "image": "helmet-12.jpg",
+    "colors": [
+      "Midnight Blue",
+      "Onyx Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 16,
+    "description": "Long-haul touring helmet. Whisper-quiet aerodynamics, integrated comms cavity, plush memory-foam interior.",
+    "specs": {
+      "Shell": "Polycarbonate Composite",
+      "Weight": "1580g",
+      "Visor": "Dual + Anti-Fog",
+      "Certification": "ECE 22.06 / DOT",
+      "Ventilation": "Tour-tuned silent flow"
+    }
+  },
+   {
+    "id": "p8",
+    "slug": "midnight-tour-gt",
+    "name": "Midnight Tour GT",
+    "category": "Modular",
+    "price": 519,
+    "oldPrice": 589,
+    "rating": 4.7,
+    "reviews": 73,
+    "tag": "Sale",
+    "image": "helmet-1.jpg",
+    "colors": [
+      "Midnight Blue",
+      "Onyx Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 16,
+    "description": "Long-haul touring helmet. Whisper-quiet aerodynamics, integrated comms cavity, plush memory-foam interior.",
+    "specs": {
+      "Shell": "Polycarbonate Composite",
+      "Weight": "1580g",
+      "Visor": "Dual + Anti-Fog",
+      "Certification": "ECE 22.06 / DOT",
+      "Ventilation": "Tour-tuned silent flow"
+    }
+  },
+   {
+    "id": "p8",
+    "slug": "midnight-tour-gt",
+    "name": "Midnight Tour GT",
+    "category": "Modular",
+    "price": 519,
+    "oldPrice": 589,
+    "rating": 4.7,
+    "reviews": 73,
+    "tag": "Sale",
+    "image": "helmet-2.jpg",
+    "colors": [
+      "Midnight Blue",
+      "Onyx Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 16,
+    "description": "Long-haul touring helmet. Whisper-quiet aerodynamics, integrated comms cavity, plush memory-foam interior.",
+    "specs": {
+      "Shell": "Polycarbonate Composite",
+      "Weight": "1580g",
+      "Visor": "Dual + Anti-Fog",
+      "Certification": "ECE 22.06 / DOT",
+      "Ventilation": "Tour-tuned silent flow"
+    }
+  },
+   {
+    "id": "p8",
+    "slug": "midnight-tour-gt",
+    "name": "Midnight Tour GT",
+    "category": "Modular",
+    "price": 519,
+    "oldPrice": 589,
+    "rating": 4.7,
+    "reviews": 73,
+    "tag": "Sale",
+    "image": "helmet-3.jpg",
+    "colors": [
+      "Midnight Blue",
+      "Onyx Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 16,
+    "description": "Long-haul touring helmet. Whisper-quiet aerodynamics, integrated comms cavity, plush memory-foam interior.",
+    "specs": {
+      "Shell": "Polycarbonate Composite",
+      "Weight": "1580g",
+      "Visor": "Dual + Anti-Fog",
+      "Certification": "ECE 22.06 / DOT",
+      "Ventilation": "Tour-tuned silent flow"
+    }
+  },
+   {
+    "id": "p8",
+    "slug": "midnight-tour-gt",
+    "name": "Midnight Tour GT",
+    "category": "Modular",
+    "price": 519,
+    "oldPrice": 589,
+    "rating": 4.7,
+    "reviews": 73,
+    "tag": "Sale",
+    "image": "helmet-4.jpg",
+    "colors": [
+      "Midnight Blue",
+      "Onyx Black"
+    ],
+    "sizes": [
+      "M",
+      "L",
+      "XL",
+      "XXL"
+    ],
+    "stock": 16,
+    "description": "Long-haul touring helmet. Whisper-quiet aerodynamics, integrated comms cavity, plush memory-foam interior.",
+    "specs": {
+      "Shell": "Polycarbonate Composite",
+      "Weight": "1580g",
+      "Visor": "Dual + Anti-Fog",
+      "Certification": "ECE 22.06 / DOT",
+      "Ventilation": "Tour-tuned silent flow"
+    }
+  }
+  
+]

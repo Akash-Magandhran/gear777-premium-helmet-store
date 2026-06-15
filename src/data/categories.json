@@ -1,0 +1,7 @@
+[
+  { "id": "c1", "name": "Full Face", "count": 24, "icon": "FaHelmetSafety" },
+  { "id": "c2", "name": "Modular", "count": 18, "icon": "GiVisoredHelm" },
+  { "id": "c3", "name": "Adventure", "count": 12, "icon": "GiMountainRoad" },
+  { "id": "c4", "name": "Open Face", "count": 9, "icon": "GiHood" },
+  { "id": "c5", "name": "Half", "count": 7, "icon": "GiCrownedSkull" }
+]
